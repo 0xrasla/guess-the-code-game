@@ -8,17 +8,19 @@
 * **__Run "npm run" to run the server__**
 * **__Go to http://localhost/3000 to see the web app!__** 
 
+___
+# TECH USED
+
+* **Githubs Puglic API For Code Snippets** <br/>
+* **React - For Frontend Things**
+
 
 ## **Here is Some Preview**
+### **Home Page**
+<img src="https://github.com/Rasla-Dev/WhatCodeIsThis/blob/main/src/Assets/home.png?raw=true" alt="Nope">
 
-### **Homepage**
-<img src="https://github.com/Rasla-Dev/PokeMania_/blob/main/src/assets/main.png?raw=true" alt="Nope">
-
-### **Favorites Page**
-<img src="https://github.com/Rasla-Dev/PokeMania_/blob/main/src/assets/fav.png?raw=true" alt="Nope">
-
-### **Info Page**
-<img src="https://github.com/Rasla-Dev/PokeMania_/blob/main/src/assets/info.png?raw=true" alt="Nope">
+### **Game**
+<img src="https://github.com/Rasla-Dev/WhatCodeIsThis/blob/main/src/Assets/game.png?raw=true" alt="Nope">
 
 ## **Contact**
 

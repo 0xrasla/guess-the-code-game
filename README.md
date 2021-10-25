@@ -22,7 +22,7 @@ ___
 ### **Game**
 <img src="https://github.com/Rasla-Dev/WhatCodeIsThis/blob/main/src/Assets/game.png?raw=true" alt="Nope">
 
-## **Contact**
+## **Contact Details**
 
 ### **Youtube : https://www.youtube.com/c/LazyCode-razla**
 

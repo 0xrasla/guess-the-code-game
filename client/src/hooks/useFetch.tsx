@@ -5,24 +5,26 @@ interface Props {
     url: string;
 }
 
-const useFetch = ({url} : Props) => {
-
-    const [data, SetData] = useState(null)
-    const [loading, SetLoading] = useState(true)
-    const [error, SetError] = useState(null)
+const useFetch = ({ url }: Props) => {
+    const [data, SetData] = useState(null);
+    const [loading, SetLoading] = useState(true);
+    const [error, SetError] = useState(null);
 
     useEffect(() => {
-        axios.get(url).then(res => {
-            SetData(res.data)
-            SetLoading(false)
-        }).catch(err => {
-            SetError(err)
-            SetLoading(false)
-        })
-
+        axios
+            .get(url)
+            .then((res) => {
+                SetData(res.data);
+                console.log(res.data);
+                SetLoading(false);
+            })
+            .catch((err) => {
+                SetError(err);
+                SetLoading(false);
+            });
     }, []);
 
-  return {data, loading, error};
+    return { data, loading, error };
 };
 
 export default useFetch;

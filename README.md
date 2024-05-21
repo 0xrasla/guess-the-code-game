@@ -41,6 +41,10 @@ bun dev # use npm run dev if you are using npm
 3. If you are correct, you will see a message like `Correct!` and the game will be over.
 4. If you are wrong, you will see a message like `Wrong!` and the game will be over.
 
+### Screenshot
+
+![alt text](image.png)
+
 ### IMPORTANT
 
 - This game is not fully functional. I am still working on it.
